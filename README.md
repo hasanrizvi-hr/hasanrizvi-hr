@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hasanrizvi-hr
-- 👀 I’m interested in Machine Learning and Game Development
-- 🌱 I’m currently learning Game Development
-- 💞️ I’m looking to collaborate on Gaming Projects
-- 📫 How to reach me ... Just write me on hasanrizvi101@gmail.com
+
+- 👋 Hi, I’m Hasan Rizvi, a passionate and creative individual with a keen interest in Game Design, Reinforcement Learning and Blockchain.
+- 👀 I have been into developing games in various genres for 18 months now, and now stay updated i am very keen to integrate Blockchain technology in games to create innovative and immersive gaming experiences.
+- 💞️ I am always eager to learn new skills and explore new possibilities in the gaming industry. I am looking to collaborate with game studios that share my vision and enthusiasm for creating amazing games.
+- 📫 You can reach me at hasanrizvi101@gmail.com or check out my portfolio of games and projects on my website. Thank you for visiting my profile and I hope to hear from you soon.
 
 <!---
 hasanrizvi-hr/hasanrizvi-hr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
